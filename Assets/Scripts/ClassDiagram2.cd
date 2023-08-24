@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Achievement" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAEAFAQAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\Achievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementsController" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAABAIACAIAAAAAAAAAAABAAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\AchievementsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementsLauncher" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Achievements\AchievementsLauncher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementsLibrary" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\AchievementsLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parameter" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\Parameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParametersLibrary" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\ParametersLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistic" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAABAAACAIAAAAAAAgAAAAQAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\Statistic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JsonLoadAndRead" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\JsonLoadAndRead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelObj" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadImage" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoadImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextSceneManager" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAIBAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\NextSceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectionLibrary" Collapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAIAAAAQACAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SectionLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatisticLibraryJson" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\StatisticLibraryJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Word" Collapsed="true">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordBuilder" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAWAAAABACCAAAAAAAQAAAAAAABAAAAAAAEAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\WordBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordLibrary" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WordLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WordLibraryJson" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQBAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\WordLibraryJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IObservable" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\IObservable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IObserver" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Achievements\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

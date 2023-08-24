@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractLevel" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAWACAAAQEBAAAIAAAgAAkAAADAACAAAQgAAAA=</HashCode>
+      <FileName>Assets\Scripts\AbstractLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdventuresModLevel" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdventuresModLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleScript" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAgAAACAACQIQAAABAAAAAAAAAAABAAAACQAAAII=</HashCode>
+      <FileName>Assets\Scripts\BattleScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletCollision" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACABACAAIAAAAAAAAAAAAAEAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BulletCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletMove" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\BulletMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletState" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAIAAAIAAAAAAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BulletState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAUAAAAAAAAAAAAAAAMQAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Cell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EffectCollision" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAACAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EffectCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQACACAACAAAgAgAAAAAAAAAIACAAAAABAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EnemyManager" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAgDAAAACAAAAAAAAQABABAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FillField" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAACAAKAAgAAAAAAEAAADgABACECAQAAQAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\FillField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreeModLevel" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FreeModLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveTimerController" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACCAAQAAAAAAQAAIAACAAQAAgAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveTimerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQACACAACAAAgAgAAAAAAAAAIACAAAAABAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IHealth" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\IHealth.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

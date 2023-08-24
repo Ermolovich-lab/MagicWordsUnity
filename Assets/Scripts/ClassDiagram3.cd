@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UIFactory" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\UIFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellColor" Collapsed="true">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CellColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckButtonPressed" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\CheckButtonPressed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthDisplay" Collapsed="true">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAACACAAAAAAAAIAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\HealthDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HintsLauncher" Collapsed="true">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAgAAACBAIAAAAAACIAAAAAAAAAAAAAAAACCAAAA=</HashCode>
+      <FileName>Assets\Scripts\HintsLauncher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LauncherSectionUI" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCQgABAKCAAABAAAAAAAAAAAQAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LauncherSectionUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelButton" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelInfo" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAQEAAAAAAAAAIAgAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\LevelInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelMap" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAAAAIAAAAAAAAwQAAAAAAAAAAAQAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\LevelMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACCAAAAAAAUAAAABAAAABAABIIAAACAAACA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAIAAACAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\ProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Section" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Section.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectionInfo" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SectionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectionInfoButton" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SectionInfoButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextDisplay" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TextDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IPressed" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IPressed.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IReset" Collapsed="true">
+    <Position X="1" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IReset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
